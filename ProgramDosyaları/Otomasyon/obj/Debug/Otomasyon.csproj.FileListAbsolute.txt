@@ -1,0 +1,215 @@
+C:\Users\RCenk\source\repos\Otomasyon\Otomasyon\bin\Debug\Otomasyon.exe.config
+C:\Users\RCenk\source\repos\Otomasyon\Otomasyon\bin\Debug\Otomasyon.exe
+C:\Users\RCenk\source\repos\Otomasyon\Otomasyon\bin\Debug\Otomasyon.pdb
+C:\Users\RCenk\source\repos\Otomasyon\Otomasyon\obj\Debug\Otomasyon.csprojAssemblyReference.cache
+C:\Users\RCenk\source\repos\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Form1.resources
+C:\Users\RCenk\source\repos\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Properties.Resources.resources
+C:\Users\RCenk\source\repos\Otomasyon\Otomasyon\obj\Debug\Otomasyon.csproj.GenerateResource.cache
+C:\Users\RCenk\source\repos\Otomasyon\Otomasyon\obj\Debug\Otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\RCenk\source\repos\Otomasyon\Otomasyon\obj\Debug\Otomasyon.exe
+C:\Users\RCenk\source\repos\Otomasyon\Otomasyon\obj\Debug\Otomasyon.pdb
+C:\Users\RCenk\source\repos\Otomasyon\Otomasyon\bin\Debug\MetroFramework.Design.dll
+C:\Users\RCenk\source\repos\Otomasyon\Otomasyon\bin\Debug\MetroFramework.dll
+C:\Users\RCenk\source\repos\Otomasyon\Otomasyon\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\RCenk\source\repos\Otomasyon\Otomasyon\obj\Debug\Otomasyon.csproj.CopyComplete
+C:\Users\RCenk\source\repos\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Form2.resources
+C:\Users\RCenk\source\repos\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Form3.resources
+C:\Users\user\Desktop\Yeni klasör\Otomasyon\Otomasyon\bin\Debug\Otomasyon.exe.config
+C:\Users\user\Desktop\Yeni klasör\Otomasyon\Otomasyon\bin\Debug\Otomasyon.exe
+C:\Users\user\Desktop\Yeni klasör\Otomasyon\Otomasyon\bin\Debug\Otomasyon.pdb
+C:\Users\user\Desktop\Yeni klasör\Otomasyon\Otomasyon\bin\Debug\MetroFramework.Design.dll
+C:\Users\user\Desktop\Yeni klasör\Otomasyon\Otomasyon\bin\Debug\MetroFramework.dll
+C:\Users\user\Desktop\Yeni klasör\Otomasyon\Otomasyon\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\user\Desktop\Yeni klasör\Otomasyon\Otomasyon\obj\Debug\Otomasyon.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Yeni klasör\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Form1.resources
+C:\Users\user\Desktop\Yeni klasör\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Form2.resources
+C:\Users\user\Desktop\Yeni klasör\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Form3.resources
+C:\Users\user\Desktop\Yeni klasör\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Form4.resources
+C:\Users\user\Desktop\Yeni klasör\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Properties.Resources.resources
+C:\Users\user\Desktop\Yeni klasör\Otomasyon\Otomasyon\obj\Debug\Otomasyon.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Yeni klasör\Otomasyon\Otomasyon\obj\Debug\Otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Yeni klasör\Otomasyon\Otomasyon\obj\Debug\Otomasyon.csproj.CopyComplete
+C:\Users\user\Desktop\Yeni klasör\Otomasyon\Otomasyon\obj\Debug\Otomasyon.exe
+C:\Users\user\Desktop\Yeni klasör\Otomasyon\Otomasyon\obj\Debug\Otomasyon.pdb
+C:\Users\user\Desktop\Otomasyon\Otomasyon\bin\Debug\Otomasyon.exe.config
+C:\Users\user\Desktop\Otomasyon\Otomasyon\bin\Debug\Otomasyon.exe
+C:\Users\user\Desktop\Otomasyon\Otomasyon\bin\Debug\Otomasyon.pdb
+C:\Users\user\Desktop\Otomasyon\Otomasyon\bin\Debug\MetroFramework.Design.dll
+C:\Users\user\Desktop\Otomasyon\Otomasyon\bin\Debug\MetroFramework.dll
+C:\Users\user\Desktop\Otomasyon\Otomasyon\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\user\Desktop\Otomasyon\Otomasyon\obj\Debug\Otomasyon.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Form1.resources
+C:\Users\user\Desktop\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Form2.resources
+C:\Users\user\Desktop\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Form3.resources
+C:\Users\user\Desktop\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Form4.resources
+C:\Users\user\Desktop\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Properties.Resources.resources
+C:\Users\user\Desktop\Otomasyon\Otomasyon\obj\Debug\Otomasyon.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Otomasyon\Otomasyon\obj\Debug\Otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Otomasyon\Otomasyon\obj\Debug\Otomasyon.csproj.CopyComplete
+C:\Users\user\Desktop\Otomasyon\Otomasyon\obj\Debug\Otomasyon.exe
+C:\Users\user\Desktop\Otomasyon\Otomasyon\obj\Debug\Otomasyon.pdb
+C:\Users\RCenk\Desktop\Otomasyon\Otomasyon\Otomasyon\obj\Debug\Otomasyon.csprojAssemblyReference.cache
+C:\Users\RCenk\Desktop\Otomasyon\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Form1.resources
+C:\Users\RCenk\Desktop\Otomasyon\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Form2.resources
+C:\Users\RCenk\Desktop\Otomasyon\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Form3.resources
+C:\Users\RCenk\Desktop\Otomasyon\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Form4.resources
+C:\Users\RCenk\Desktop\Otomasyon\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Properties.Resources.resources
+C:\Users\RCenk\Desktop\Otomasyon\Otomasyon\Otomasyon\obj\Debug\Otomasyon.csproj.GenerateResource.cache
+C:\Users\RCenk\Desktop\Otomasyon\Otomasyon\Otomasyon\obj\Debug\Otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\RCenk\Desktop\Otomasyon\Otomasyon\Otomasyon\obj\Debug\Otomasyon.exe
+C:\Users\RCenk\Desktop\Otomasyon\Otomasyon\Otomasyon\obj\Debug\Otomasyon.pdb
+C:\Users\RCenk\Desktop\Otomasyon\Otomasyon\Otomasyon\bin\Debug\Otomasyon.exe.config
+C:\Users\RCenk\Desktop\Otomasyon\Otomasyon\Otomasyon\bin\Debug\Otomasyon.exe
+C:\Users\RCenk\Desktop\Otomasyon\Otomasyon\Otomasyon\bin\Debug\Otomasyon.pdb
+C:\Users\RCenk\Desktop\Otomasyon\Otomasyon\Otomasyon\bin\Debug\MetroFramework.Design.dll
+C:\Users\RCenk\Desktop\Otomasyon\Otomasyon\Otomasyon\bin\Debug\MetroFramework.dll
+C:\Users\RCenk\Desktop\Otomasyon\Otomasyon\Otomasyon\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\RCenk\Desktop\Otomasyon\Otomasyon\Otomasyon\obj\Debug\Otomasyon.csproj.CopyComplete
+C:\Users\RCenk\Desktop\Otomasyon\Otomasyon\Otomasyon\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\RCenk\Desktop\Otomasyon\Otomasyon\Otomasyon\bin\Debug\Google.Protobuf.dll
+C:\Users\RCenk\Desktop\Otomasyon\Otomasyon\Otomasyon\bin\Debug\MySql.Data.dll
+C:\Users\RCenk\Desktop\Otomasyon\Otomasyon\Otomasyon\bin\Debug\Google.Protobuf.xml
+C:\Users\RCenk\Desktop\Otomasyon\Otomasyon\Otomasyon\bin\Debug\MySql.Data.xml
+D:\Otomasyon\Otomasyon\bin\Debug\Otomasyon.exe.config
+D:\Otomasyon\Otomasyon\bin\Debug\Otomasyon.exe
+D:\Otomasyon\Otomasyon\bin\Debug\Otomasyon.pdb
+D:\Otomasyon\Otomasyon\bin\Debug\BouncyCastle.Crypto.dll
+D:\Otomasyon\Otomasyon\bin\Debug\Google.Protobuf.dll
+D:\Otomasyon\Otomasyon\bin\Debug\MetroFramework.Design.dll
+D:\Otomasyon\Otomasyon\bin\Debug\MetroFramework.dll
+D:\Otomasyon\Otomasyon\bin\Debug\MetroFramework.Fonts.dll
+D:\Otomasyon\Otomasyon\bin\Debug\MySql.Data.dll
+D:\Otomasyon\Otomasyon\bin\Debug\Google.Protobuf.xml
+D:\Otomasyon\Otomasyon\bin\Debug\MySql.Data.xml
+D:\Otomasyon\Otomasyon\obj\Debug\Otomasyon.csprojAssemblyReference.cache
+D:\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Form1.resources
+D:\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Form2.resources
+D:\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Form3.resources
+D:\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Form4.resources
+D:\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Properties.Resources.resources
+D:\Otomasyon\Otomasyon\obj\Debug\Otomasyon.csproj.GenerateResource.cache
+D:\Otomasyon\Otomasyon\obj\Debug\Otomasyon.csproj.CoreCompileInputs.cache
+D:\Otomasyon\Otomasyon\obj\Debug\Otomasyon.csproj.CopyComplete
+D:\Otomasyon\Otomasyon\obj\Debug\Otomasyon.exe
+D:\Otomasyon\Otomasyon\obj\Debug\Otomasyon.pdb
+D:\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Form5.resources
+C:\Users\RCenk\Desktop\Otomasyon trddd\Otomasyon\Otomasyon\bin\Debug\Otomasyon.exe.config
+C:\Users\RCenk\Desktop\Otomasyon trddd\Otomasyon\Otomasyon\bin\Debug\Otomasyon.exe
+C:\Users\RCenk\Desktop\Otomasyon trddd\Otomasyon\Otomasyon\bin\Debug\Otomasyon.pdb
+C:\Users\RCenk\Desktop\Otomasyon trddd\Otomasyon\Otomasyon\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\RCenk\Desktop\Otomasyon trddd\Otomasyon\Otomasyon\bin\Debug\Google.Protobuf.dll
+C:\Users\RCenk\Desktop\Otomasyon trddd\Otomasyon\Otomasyon\bin\Debug\MetroFramework.Design.dll
+C:\Users\RCenk\Desktop\Otomasyon trddd\Otomasyon\Otomasyon\bin\Debug\MetroFramework.dll
+C:\Users\RCenk\Desktop\Otomasyon trddd\Otomasyon\Otomasyon\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\RCenk\Desktop\Otomasyon trddd\Otomasyon\Otomasyon\bin\Debug\MySql.Data.dll
+C:\Users\RCenk\Desktop\Otomasyon trddd\Otomasyon\Otomasyon\bin\Debug\Google.Protobuf.xml
+C:\Users\RCenk\Desktop\Otomasyon trddd\Otomasyon\Otomasyon\bin\Debug\MySql.Data.xml
+C:\Users\RCenk\Desktop\Otomasyon trddd\Otomasyon\Otomasyon\obj\Debug\Otomasyon.csprojAssemblyReference.cache
+C:\Users\RCenk\Desktop\Otomasyon trddd\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Form1.resources
+C:\Users\RCenk\Desktop\Otomasyon trddd\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Form2.resources
+C:\Users\RCenk\Desktop\Otomasyon trddd\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Form3.resources
+C:\Users\RCenk\Desktop\Otomasyon trddd\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Form4.resources
+C:\Users\RCenk\Desktop\Otomasyon trddd\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Form5.resources
+C:\Users\RCenk\Desktop\Otomasyon trddd\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Properties.Resources.resources
+C:\Users\RCenk\Desktop\Otomasyon trddd\Otomasyon\Otomasyon\obj\Debug\Otomasyon.csproj.GenerateResource.cache
+C:\Users\RCenk\Desktop\Otomasyon trddd\Otomasyon\Otomasyon\obj\Debug\Otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\RCenk\Desktop\Otomasyon trddd\Otomasyon\Otomasyon\obj\Debug\Otomasyon.csproj.CopyComplete
+C:\Users\RCenk\Desktop\Otomasyon trddd\Otomasyon\Otomasyon\obj\Debug\Otomasyon.exe
+C:\Users\RCenk\Desktop\Otomasyon trddd\Otomasyon\Otomasyon\obj\Debug\Otomasyon.pdb
+C:\Users\user\Desktop\Otomasyon trddd\Otomasyon\Otomasyon\bin\Debug\Otomasyon.exe.config
+C:\Users\user\Desktop\Otomasyon trddd\Otomasyon\Otomasyon\bin\Debug\Otomasyon.exe
+C:\Users\user\Desktop\Otomasyon trddd\Otomasyon\Otomasyon\bin\Debug\Otomasyon.pdb
+C:\Users\user\Desktop\Otomasyon trddd\Otomasyon\Otomasyon\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\user\Desktop\Otomasyon trddd\Otomasyon\Otomasyon\bin\Debug\Google.Protobuf.dll
+C:\Users\user\Desktop\Otomasyon trddd\Otomasyon\Otomasyon\bin\Debug\MetroFramework.Design.dll
+C:\Users\user\Desktop\Otomasyon trddd\Otomasyon\Otomasyon\bin\Debug\MetroFramework.dll
+C:\Users\user\Desktop\Otomasyon trddd\Otomasyon\Otomasyon\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\user\Desktop\Otomasyon trddd\Otomasyon\Otomasyon\bin\Debug\MySql.Data.dll
+C:\Users\user\Desktop\Otomasyon trddd\Otomasyon\Otomasyon\bin\Debug\Google.Protobuf.xml
+C:\Users\user\Desktop\Otomasyon trddd\Otomasyon\Otomasyon\bin\Debug\MySql.Data.xml
+C:\Users\user\Desktop\Otomasyon trddd\Otomasyon\Otomasyon\obj\Debug\Otomasyon.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Otomasyon trddd\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Form1.resources
+C:\Users\user\Desktop\Otomasyon trddd\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Form2.resources
+C:\Users\user\Desktop\Otomasyon trddd\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Form3.resources
+C:\Users\user\Desktop\Otomasyon trddd\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Form4.resources
+C:\Users\user\Desktop\Otomasyon trddd\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Form5.resources
+C:\Users\user\Desktop\Otomasyon trddd\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Properties.Resources.resources
+C:\Users\user\Desktop\Otomasyon trddd\Otomasyon\Otomasyon\obj\Debug\Otomasyon.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Otomasyon trddd\Otomasyon\Otomasyon\obj\Debug\Otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Otomasyon trddd\Otomasyon\Otomasyon\obj\Debug\Otomasyon.csproj.CopyComplete
+C:\Users\user\Desktop\Otomasyon trddd\Otomasyon\Otomasyon\obj\Debug\Otomasyon.exe
+C:\Users\user\Desktop\Otomasyon trddd\Otomasyon\Otomasyon\obj\Debug\Otomasyon.pdb
+C:\Users\user\Desktop\VYTS PROJE\Otomasyon trddd\Otomasyon\Otomasyon\bin\Debug\Otomasyon.exe.config
+C:\Users\user\Desktop\VYTS PROJE\Otomasyon trddd\Otomasyon\Otomasyon\bin\Debug\Otomasyon.exe
+C:\Users\user\Desktop\VYTS PROJE\Otomasyon trddd\Otomasyon\Otomasyon\bin\Debug\Otomasyon.pdb
+C:\Users\user\Desktop\VYTS PROJE\Otomasyon trddd\Otomasyon\Otomasyon\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\user\Desktop\VYTS PROJE\Otomasyon trddd\Otomasyon\Otomasyon\bin\Debug\Google.Protobuf.dll
+C:\Users\user\Desktop\VYTS PROJE\Otomasyon trddd\Otomasyon\Otomasyon\bin\Debug\MetroFramework.Design.dll
+C:\Users\user\Desktop\VYTS PROJE\Otomasyon trddd\Otomasyon\Otomasyon\bin\Debug\MetroFramework.dll
+C:\Users\user\Desktop\VYTS PROJE\Otomasyon trddd\Otomasyon\Otomasyon\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\user\Desktop\VYTS PROJE\Otomasyon trddd\Otomasyon\Otomasyon\bin\Debug\MySql.Data.dll
+C:\Users\user\Desktop\VYTS PROJE\Otomasyon trddd\Otomasyon\Otomasyon\bin\Debug\Google.Protobuf.xml
+C:\Users\user\Desktop\VYTS PROJE\Otomasyon trddd\Otomasyon\Otomasyon\bin\Debug\MySql.Data.xml
+C:\Users\user\Desktop\VYTS PROJE\Otomasyon trddd\Otomasyon\Otomasyon\obj\Debug\Otomasyon.csprojAssemblyReference.cache
+C:\Users\user\Desktop\VYTS PROJE\Otomasyon trddd\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Form1.resources
+C:\Users\user\Desktop\VYTS PROJE\Otomasyon trddd\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Form2.resources
+C:\Users\user\Desktop\VYTS PROJE\Otomasyon trddd\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Form3.resources
+C:\Users\user\Desktop\VYTS PROJE\Otomasyon trddd\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Form4.resources
+C:\Users\user\Desktop\VYTS PROJE\Otomasyon trddd\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Form5.resources
+C:\Users\user\Desktop\VYTS PROJE\Otomasyon trddd\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Properties.Resources.resources
+C:\Users\user\Desktop\VYTS PROJE\Otomasyon trddd\Otomasyon\Otomasyon\obj\Debug\Otomasyon.csproj.GenerateResource.cache
+C:\Users\user\Desktop\VYTS PROJE\Otomasyon trddd\Otomasyon\Otomasyon\obj\Debug\Otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\VYTS PROJE\Otomasyon trddd\Otomasyon\Otomasyon\obj\Debug\Otomasyon.csproj.CopyComplete
+C:\Users\user\Desktop\VYTS PROJE\Otomasyon trddd\Otomasyon\Otomasyon\obj\Debug\Otomasyon.exe
+C:\Users\user\Desktop\VYTS PROJE\Otomasyon trddd\Otomasyon\Otomasyon\obj\Debug\Otomasyon.pdb
+C:\Users\user\Desktop\Otomasyon\Otomasyon\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\user\Desktop\Otomasyon\Otomasyon\bin\Debug\Google.Protobuf.dll
+C:\Users\user\Desktop\Otomasyon\Otomasyon\bin\Debug\MySql.Data.dll
+C:\Users\user\Desktop\Otomasyon\Otomasyon\bin\Debug\Google.Protobuf.xml
+C:\Users\user\Desktop\Otomasyon\Otomasyon\bin\Debug\MySql.Data.xml
+C:\Users\user\Desktop\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Form5.resources
+C:\Users\user\Desktop\otoparkOtomasyonBilgiler\Otomasyon\Otomasyon\bin\Debug\Otomasyon.exe.config
+C:\Users\user\Desktop\otoparkOtomasyonBilgiler\Otomasyon\Otomasyon\bin\Debug\Otomasyon.exe
+C:\Users\user\Desktop\otoparkOtomasyonBilgiler\Otomasyon\Otomasyon\bin\Debug\Otomasyon.pdb
+C:\Users\user\Desktop\otoparkOtomasyonBilgiler\Otomasyon\Otomasyon\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\user\Desktop\otoparkOtomasyonBilgiler\Otomasyon\Otomasyon\bin\Debug\Google.Protobuf.dll
+C:\Users\user\Desktop\otoparkOtomasyonBilgiler\Otomasyon\Otomasyon\bin\Debug\MetroFramework.Design.dll
+C:\Users\user\Desktop\otoparkOtomasyonBilgiler\Otomasyon\Otomasyon\bin\Debug\MetroFramework.dll
+C:\Users\user\Desktop\otoparkOtomasyonBilgiler\Otomasyon\Otomasyon\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\user\Desktop\otoparkOtomasyonBilgiler\Otomasyon\Otomasyon\bin\Debug\MySql.Data.dll
+C:\Users\user\Desktop\otoparkOtomasyonBilgiler\Otomasyon\Otomasyon\bin\Debug\Google.Protobuf.xml
+C:\Users\user\Desktop\otoparkOtomasyonBilgiler\Otomasyon\Otomasyon\bin\Debug\MySql.Data.xml
+C:\Users\user\Desktop\otoparkOtomasyonBilgiler\Otomasyon\Otomasyon\obj\Debug\Otomasyon.csprojAssemblyReference.cache
+C:\Users\user\Desktop\otoparkOtomasyonBilgiler\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Form1.resources
+C:\Users\user\Desktop\otoparkOtomasyonBilgiler\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Form2.resources
+C:\Users\user\Desktop\otoparkOtomasyonBilgiler\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Form3.resources
+C:\Users\user\Desktop\otoparkOtomasyonBilgiler\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Form4.resources
+C:\Users\user\Desktop\otoparkOtomasyonBilgiler\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Form5.resources
+C:\Users\user\Desktop\otoparkOtomasyonBilgiler\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Properties.Resources.resources
+C:\Users\user\Desktop\otoparkOtomasyonBilgiler\Otomasyon\Otomasyon\obj\Debug\Otomasyon.csproj.GenerateResource.cache
+C:\Users\user\Desktop\otoparkOtomasyonBilgiler\Otomasyon\Otomasyon\obj\Debug\Otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\otoparkOtomasyonBilgiler\Otomasyon\Otomasyon\obj\Debug\Otomasyon.csproj.CopyComplete
+C:\Users\user\Desktop\otoparkOtomasyonBilgiler\Otomasyon\Otomasyon\obj\Debug\Otomasyon.exe
+C:\Users\user\Desktop\otoparkOtomasyonBilgiler\Otomasyon\Otomasyon\obj\Debug\Otomasyon.pdb
+C:\Users\Tarık\Desktop\otoparkOtomasyonBilgiler\Otomasyon\Otomasyon\bin\Debug\Otomasyon.exe.config
+C:\Users\Tarık\Desktop\otoparkOtomasyonBilgiler\Otomasyon\Otomasyon\bin\Debug\Otomasyon.exe
+C:\Users\Tarık\Desktop\otoparkOtomasyonBilgiler\Otomasyon\Otomasyon\bin\Debug\Otomasyon.pdb
+C:\Users\Tarık\Desktop\otoparkOtomasyonBilgiler\Otomasyon\Otomasyon\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Tarık\Desktop\otoparkOtomasyonBilgiler\Otomasyon\Otomasyon\bin\Debug\Google.Protobuf.dll
+C:\Users\Tarık\Desktop\otoparkOtomasyonBilgiler\Otomasyon\Otomasyon\bin\Debug\MetroFramework.Design.dll
+C:\Users\Tarık\Desktop\otoparkOtomasyonBilgiler\Otomasyon\Otomasyon\bin\Debug\MetroFramework.dll
+C:\Users\Tarık\Desktop\otoparkOtomasyonBilgiler\Otomasyon\Otomasyon\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Tarık\Desktop\otoparkOtomasyonBilgiler\Otomasyon\Otomasyon\bin\Debug\MySql.Data.dll
+C:\Users\Tarık\Desktop\otoparkOtomasyonBilgiler\Otomasyon\Otomasyon\bin\Debug\Google.Protobuf.xml
+C:\Users\Tarık\Desktop\otoparkOtomasyonBilgiler\Otomasyon\Otomasyon\bin\Debug\MySql.Data.xml
+C:\Users\Tarık\Desktop\otoparkOtomasyonBilgiler\Otomasyon\Otomasyon\obj\Debug\Otomasyon.csprojAssemblyReference.cache
+C:\Users\Tarık\Desktop\otoparkOtomasyonBilgiler\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Form1.resources
+C:\Users\Tarık\Desktop\otoparkOtomasyonBilgiler\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Form2.resources
+C:\Users\Tarık\Desktop\otoparkOtomasyonBilgiler\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Form3.resources
+C:\Users\Tarık\Desktop\otoparkOtomasyonBilgiler\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Form4.resources
+C:\Users\Tarık\Desktop\otoparkOtomasyonBilgiler\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Form5.resources
+C:\Users\Tarık\Desktop\otoparkOtomasyonBilgiler\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Properties.Resources.resources
+C:\Users\Tarık\Desktop\otoparkOtomasyonBilgiler\Otomasyon\Otomasyon\obj\Debug\Otomasyon.csproj.GenerateResource.cache
+C:\Users\Tarık\Desktop\otoparkOtomasyonBilgiler\Otomasyon\Otomasyon\obj\Debug\Otomasyon.csproj.CopyComplete
+C:\Users\Tarık\Desktop\otoparkOtomasyonBilgiler\Otomasyon\Otomasyon\obj\Debug\Otomasyon.exe
+C:\Users\Tarık\Desktop\otoparkOtomasyonBilgiler\Otomasyon\Otomasyon\obj\Debug\Otomasyon.pdb

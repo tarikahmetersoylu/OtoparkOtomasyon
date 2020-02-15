@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="otoparkotomasyonDataSet1" targetNamespace="http://tempuri.org/otoparkotomasyonDataSet1.xsd" xmlns:mstns="http://tempuri.org/otoparkotomasyonDataSet1.xsd" xmlns="http://tempuri.org/otoparkotomasyonDataSet1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="otoparkotomasyonConnectionString1" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="otoparkotomasyonConnectionString1 (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.Otomasyon.Properties.Settings.GlobalReference.Default.otoparkotomasyonConnectionString1" Provider="MySql.Data.MySqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="abonekayitTableAdapter" GeneratorDataComponentClassName="abonekayitTableAdapter" Name="abonekayit" UserDataComponentName="abonekayitTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="otoparkotomasyonConnectionString1 (Settings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT `TC`, `ad`, `soyad`, `telNo`, `adres`, `plaka`, `marka`, `model`, `renk` FROM `abonekayit`</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings />
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="araccikisTableAdapter" GeneratorDataComponentClassName="araccikisTableAdapter" Name="araccikis" UserDataComponentName="araccikisTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="otoparkotomasyonConnectionString1 (Settings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT `cikis_saati`, `tutar`, `park_suresi`, `giris_saati`, `plaka` FROM `araccikis`</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings />
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="aracgirisTableAdapter" GeneratorDataComponentClassName="aracgirisTableAdapter" Name="aracgiris" UserDataComponentName="aracgirisTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="otoparkotomasyonConnectionString1 (Settings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT `giris_saati`, `plaka` FROM `aracgiris`</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings />
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="arackayitTableAdapter" GeneratorDataComponentClassName="arackayitTableAdapter" Name="arackayit" UserDataComponentName="arackayitTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="otoparkotomasyonConnectionString1 (Settings)" DbObjectName="otoparkotomasyon.arackayit" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT `plaka`, `marka`, `model`, `renk` FROM `arackayit`</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings />
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="otoparkotomasyonDataSet1" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="otoparkotomasyonDataSet1" msprop:Generator_UserDSName="otoparkotomasyonDataSet1">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="abonekayit" msprop:Generator_TableClassName="abonekayitDataTable" msprop:Generator_TableVarName="tableabonekayit" msprop:Generator_TablePropName="abonekayit" msprop:Generator_RowDeletingName="abonekayitRowDeleting" msprop:Generator_RowChangingName="abonekayitRowChanging" msprop:Generator_RowEvHandlerName="abonekayitRowChangeEventHandler" msprop:Generator_RowDeletedName="abonekayitRowDeleted" msprop:Generator_UserTableName="abonekayit" msprop:Generator_RowChangedName="abonekayitRowChanged" msprop:Generator_RowEvArgName="abonekayitRowChangeEvent" msprop:Generator_RowClassName="abonekayitRow">
+          <xs:complexType>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="araccikis" msprop:Generator_TableClassName="araccikisDataTable" msprop:Generator_TableVarName="tablearaccikis" msprop:Generator_TablePropName="araccikis" msprop:Generator_RowDeletingName="araccikisRowDeleting" msprop:Generator_RowChangingName="araccikisRowChanging" msprop:Generator_RowEvHandlerName="araccikisRowChangeEventHandler" msprop:Generator_RowDeletedName="araccikisRowDeleted" msprop:Generator_UserTableName="araccikis" msprop:Generator_RowChangedName="araccikisRowChanged" msprop:Generator_RowEvArgName="araccikisRowChangeEvent" msprop:Generator_RowClassName="araccikisRow">
+          <xs:complexType>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="aracgiris" msprop:Generator_TableClassName="aracgirisDataTable" msprop:Generator_TableVarName="tablearacgiris" msprop:Generator_TablePropName="aracgiris" msprop:Generator_RowDeletingName="aracgirisRowDeleting" msprop:Generator_RowChangingName="aracgirisRowChanging" msprop:Generator_RowEvHandlerName="aracgirisRowChangeEventHandler" msprop:Generator_RowDeletedName="aracgirisRowDeleted" msprop:Generator_UserTableName="aracgiris" msprop:Generator_RowChangedName="aracgirisRowChanged" msprop:Generator_RowEvArgName="aracgirisRowChangeEvent" msprop:Generator_RowClassName="aracgirisRow">
+          <xs:complexType>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="arackayit" msprop:Generator_TableClassName="arackayitDataTable" msprop:Generator_TableVarName="tablearackayit" msprop:Generator_TablePropName="arackayit" msprop:Generator_RowDeletingName="arackayitRowDeleting" msprop:Generator_RowChangingName="arackayitRowChanging" msprop:Generator_RowEvHandlerName="arackayitRowChangeEventHandler" msprop:Generator_RowDeletedName="arackayitRowDeleted" msprop:Generator_UserTableName="arackayit" msprop:Generator_RowChangedName="arackayitRowChanged" msprop:Generator_RowEvArgName="arackayitRowChangeEvent" msprop:Generator_RowClassName="arackayitRow">
+          <xs:complexType>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
